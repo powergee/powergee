@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi there, I'm Jeonghyeon Kim! 👋
 
-<!--
-**powergee/powergee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an undergraduated student on **Computer Science**. Currently studying various things such as...
 
-Here are some ideas to get you started:
+* :man_technologist: **Computer Algorithm** (Problem Solving in [BOJ](https://www.acmicpc.net/user/powergee) and [Codeforces](http://codeforces.com/profile/powergee101))
+* :earth_asia: **Web Development** with React.js
+* :speaker: **Speaker Verification/Identification Systems** with DNN
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## BOJ solved.ac Profile
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=powergee)](https://solved.ac/powergee)
+
+## GitHub Stats
+[![powergee's GitHub stats](https://github-readme-stats.vercel.app/api?username=powergee)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=powergee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
