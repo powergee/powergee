@@ -1,12 +1,12 @@
 # Hi there, I'm Jeonghyeon Kim (김정현)! 👋
 
-## Education
+## 🎓 Education
 
 **University of Seoul** - Seoul, South Korea
 * 컴퓨터과학 전공, 7학기 조기졸업 (2022, 예정)
 
 
-## Extracurricular Activites
+## 🎯 Extracurricular Activites
 
 **서울시립대학교 알고리즘 문제해결 소모임 AL林** - University of Seoul
 
@@ -53,7 +53,7 @@
 * 컴퓨터통신(Computer Communication, 71021)
 
 
-## Competitions
+## 🥇 Competitions
 
 **Competitive Programming**
 
@@ -66,7 +66,7 @@
 * 제 18회 임베디드 소프트웨어 경진대회 자율주행 모형자동차 부문 **특선상** (2020, 5인 1팀)
 
 
-## Experiences
+## 📚 Experiences
 
 **서울시립대학교 지능형 로봇 연구실**
 
@@ -81,7 +81,7 @@
   * **교통안전 빅데이터 실시간 모니터링 및 분석기술 개발** (한국도로공사)
 
 
-## Scholarship
+## 🎉 Scholarship
 
 * 2019/2학기
   * **발전기금 이병정 장학**
