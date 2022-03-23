@@ -11,9 +11,9 @@
 **서울시립대학교 알고리즘 문제해결 소모임 AL林** - University of Seoul
 
 * **UOSPC(서울시립대학교 총장배 알고리즘 경진대회)** 문제 출제 및 검수
-  * 2019: [All Materials](https://github.com/all1m-algorithm-study/uospc/tree/master/2019)
-  * 2020: [All Materials](https://github.com/all1m-algorithm-study/uospc2020)
   * 2021: [All Materials](https://github.com/all1m-algorithm-study/uospc2021)
+  * 2020: [All Materials](https://github.com/all1m-algorithm-study/uospc2020)
+  * 2019: [All Materials](https://github.com/all1m-algorithm-study/uospc/tree/master/2019)
 * AL林 소모임 부원 (2019-2022)
 * AL林 **소모임 회장** (2021)
 * AL林 **정규 세미나 진행** (2019~2021)
