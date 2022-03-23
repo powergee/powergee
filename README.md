@@ -5,7 +5,6 @@
 **University of Seoul** - Seoul, South Korea
 * 컴퓨터과학 전공, 7학기 조기졸업 (2022, 예정)
 
-****
 
 ## Extracurricular Activites
 
@@ -53,7 +52,6 @@
 
 * 컴퓨터통신(Computer Communication, 71021)
 
-****
 
 ## Competitions
 
@@ -67,7 +65,6 @@
 
 * 제 18회 임베디드 소프트웨어 경진대회 자율주행 모형자동차 부문 **특선상** (2020, 5인 1팀)
 
-****
 
 ## Experiences
 
@@ -83,7 +80,6 @@
   * **한-아세안 다학제 민관 네트워크기반의 스마트도시수출 거첨HUB 구축** (한국연구재단)
   * **교통안전 빅데이터 실시간 모니터링 및 분석기술 개발** (한국도로공사)
 
-****
 
 ## Scholarship
 
