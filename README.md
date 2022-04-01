@@ -62,7 +62,7 @@
 **Competitive Programming**
 
 * ACM-ICPC(ACM 국제 대학생 프로그래밍 대회) Seoul Regional **본선 진출 및 14위** (2020, 3인 1팀, [Certificate](files/2020-Asia-Seoul-2020-PLACE.pdf.pdf))
-* Google Kickstart 2022 Round A **대한민국 10위, 세계 181위** (개인, [Standings - powergee](https://codingcompetitions.withgoogle.com/kickstart/round/00000000008cb33e))
+* Google Kickstart 2022 Round A **대한민국 10위, 세계 179위** (개인, [Standings - powergee](https://codingcompetitions.withgoogle.com/kickstart/round/00000000008cb33e))
 * Google Hash Code 2021 QR **대한민국 14위, 세계 275위** (3인 1팀, [Certificate](files/2021-HashCode.pdf))
 
 **Embedded Software**
