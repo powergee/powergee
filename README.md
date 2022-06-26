@@ -9,6 +9,20 @@
 **University of Seoul** - Seoul, South Korea
 * 컴퓨터과학 전공, 7학기 조기졸업 (2022, 예정)
 
+## 📚 Experiences
+
+**서울시립대학교 지능형 로봇 연구실**
+
+* 2020 겨울 학부생 인턴
+* Speaker Verification/Identification - [Study Notes](files/IRLAB_Experiences.pdf)
+
+**서울시립대학교 도시과학대학원, 국제 도시 및 인프라 연구센터**
+
+* 2021~2022 학부연구생
+* 참여 연구
+  * **한-아세안 다학제 민관 네트워크기반의 스마트도시수출 거첨HUB 구축** (한국연구재단)
+  * **교통안전 빅데이터 실시간 모니터링 및 분석기술 개발** (한국도로공사)
+
 
 ## 🎯 Extracurricular Activites
 
@@ -61,25 +75,13 @@
 
 **Competitive Programming**
 
-* ACM-ICPC(ACM 국제 대학생 프로그래밍 대회) Seoul Regional **본선 진출 및 14위** (2020, 3인 1팀, [Certificate](files/2020-Asia-Seoul-2020-PLACE.pdf.pdf))
-* Google Kickstart 2022 Round A **대한민국 10위, 세계 181위** (개인, [Standings - powergee](https://codingcompetitions.withgoogle.com/kickstart/round/00000000008cb33e))
-* Google Hash Code 2021 QR **대한민국 14위, 세계 275위** (3인 1팀, [Certificate](files/2021-HashCode.pdf))
+* ACM-ICPC(ACM 국제 대학생 프로그래밍 대회)
+  * Seoul Regional **본선 진출 및 14위** (2020, 3인 1팀, [Certificate](files/2020-Asia-Seoul-2020-PLACE.pdf.pdf))
+* Google Programming Competition
+  * Google Kickstart 2022 Round A **대한민국 10위, 세계 179위** (개인, [Standings - powergee](https://codingcompetitions.withgoogle.com/kickstart/round/00000000008cb33e))
+  * Google Kickstart 2022 Round C **대한민국 12위, 세계 199위** (개인, [Standings - powergee](https://codingcompetitions.withgoogle.com/kickstart/round/00000000008cb4d1))
+  * Google Hash Code 2021 QR **대한민국 14위, 세계 275위** (3인 1팀, [Certificate](files/2021-HashCode.pdf))
 
 **Embedded Software**
 
 * 제 18회 임베디드 소프트웨어 경진대회 자율주행 모형자동차 부문 **특선상** (2020, 5인 1팀)
-
-
-## 📚 Experiences
-
-**서울시립대학교 지능형 로봇 연구실**
-
-* 2020 겨울 학부생 인턴
-* Speaker Verification/Identification - [Study Notes](files/IRLAB_Experiences.pdf)
-
-**서울시립대학교 도시과학대학원, 국제 도시 및 인프라 연구센터**
-
-* 2021~2022 학부연구생
-* 참여 연구
-  * **한-아세안 다학제 민관 네트워크기반의 스마트도시수출 거첨HUB 구축** (한국연구재단)
-  * **교통안전 빅데이터 실시간 모니터링 및 분석기술 개발** (한국도로공사)
