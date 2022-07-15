@@ -81,6 +81,7 @@
   * Google Kickstart 2022 Round A **대한민국 10위, 세계 179위** (개인, [Standings - powergee](https://codingcompetitions.withgoogle.com/kickstart/round/00000000008cb33e))
   * Google Kickstart 2022 Round C **대한민국 12위, 세계 199위** (개인, [Standings - powergee](https://codingcompetitions.withgoogle.com/kickstart/round/00000000008cb4d1))
   * Google Hash Code 2021 QR **대한민국 14위, 세계 275위** (3인 1팀, [Certificate](files/2021-HashCode.pdf))
+* `22 현대모비스 알고리즘 경진대회 **장려상**
 
 **Embedded Software**
 
